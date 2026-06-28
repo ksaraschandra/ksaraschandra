@@ -20,10 +20,10 @@ A tool designed to speed up qualitative tagging without losing the researcher’
 An analytical tool to solve the common portfolio bloat problem: *"Do these two personas describe the same user?"*
 * **How it works:** Extracts Jobs-to-be-Done (JTBDs), runs pairwise semantic comparisons, and calculates symmetric coverage ratios.
 * **Differentiator:** Employs three independent bias-correction fixes (stratified tiers, raw-text tracks, and asymmetric penalties) to prevent false positives when comparing small and large personas.
-#### 3. [Interactive UX Research Report & Q&A](https://github.com/ksaraschandraInteractive-UXResearch-Report-QA)
+#### 3. [Interactive UX Research Report & Q&A](https://github.com/ksaraschandra/Interactive-UXResearch-Report-QA)
 A zero-dependency interactive presentation slide deck built directly for stakeholders.
 * **How it works:** Allows stakeholders to read a research slide and instantly query the underlying corpus (transcripts, highlights) through an inline drawer.
-* **Differentiator:** Rather than generic RAG, it runs server-side streaming regex guards (`detectInventedNames`) to instantly block responses if the LLM starts inventing participant names.
+* **Differentiator:** It runs server-side streaming regex guards (`detectInventedNames`) to instantly block responses if the LLM starts inventing participant names.
 ---
 ## 💻 Tech Stack & Skills
 * **Languages:** JavaScript (ES6+), Python, HTML5, Vanilla CSS
