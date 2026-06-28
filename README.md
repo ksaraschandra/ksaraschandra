@@ -9,7 +9,7 @@ These three projects form an end-to-end pipeline that transforms raw qualitative
 | :--- | :--- | :--- | :--- |
 | **[Qualitative Coding Assistant](https://github.com/ksaraschandra/Qualitative-Coding-Assistant)** | AI-assisted transcript coding & tagging | **"AI proposes, human decides"** — preserves researcher agency with keyboard-driven validation instead of bulk auto-summarization. | Node.js, Ollama, Anthropic Claude, Dovetail API |
 | **[Persona Similarity Engine](https://github.com/ksaraschandra/Persona-Similarity-Engine)** | Statistical validation of persona equivalence | **Bias-corrected similarity metrics** — uses a 7-stage NLP pipeline with three bias-correction layers to prevent merge errors. | Python, HTML5/Vanilla CSS |
-| **[Interactive UX Research Report & Q&A](https://github.com/yourusername/Interactive-UXResearch-Report-QA)** | Slide-integrated streaming Q&A deck | **Server-side hallucination guards** — intercepts and drops connections mid-stream if the LLM invents participant names. | Node.js, SSE, Anthropic Claude, Vanilla JS, CSS |
+| **[Interactive UX Research Report & Q&A](https://github.com/ksaraschandra/Interactive-UXResearch-Report-QA)** | Slide-integrated streaming Q&A deck | **Server-side hallucination guards** — intercepts and drops connections mid-stream if the LLM invents participant names. | Node.js, SSE, Anthropic Claude, Vanilla JS, CSS |
 ---
 ### 🔍 Deep Dive: The Projects
 #### 1. [Qualitative Coding Assistant](https://github.com/ksaraschandra/Qualitative-Coding-Assistant)
@@ -31,4 +31,4 @@ A zero-dependency interactive presentation slide deck built directly for stakeho
 * **Backend:** Node.js, Express, Server-Sent Events (SSE), API Proxying & Integration (Dovetail, Anthropic, OpenAI)
 * **Design Philosophy:** Human-in-the-Loop AI design, zero-dependency performance, minimalist/responsive frontend interfaces
 ---
-
+*Feel free to reach out if you're interested in AI-UX research patterns, AI-assisted qualitative research systems, or human-AI collaboration!* 🚀
