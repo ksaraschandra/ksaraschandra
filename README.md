@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ---
 
-I build tools at the intersection of **User Experience Research (UXR)** and **Artificial Intelligence**, leveraging advanced AI-assisted development (vibe coding) to rapidly prototype and deploy robust, functional proof of concepts. My work focuses on creating human-in-the-loop AI prototypes that accelerate qualitative synthesis, ensure analytical rigor, and bridge the gap between complex research data and stakeholder decision-making.
+I build tools at the intersection of **User Experience Research (UXR)** and **Artificial Intelligence**, leveraging advanced AI-assisted development (vibe coding with Claude Code, Cursor, Antigravity) to rapidly prototype and deploy robust, functional proof of concepts. My work focuses on creating human-in-the-loop AI prototypes that accelerate qualitative synthesis, ensure analytical rigor, and bridge the gap between complex research data and stakeholder decision-making.
 
 ## 🛠️ AI-Augmented UX Research Suite
 These three projects form an end-to-end pipeline that transforms raw qualitative user research into validated, interactive, and secure stakeholder deliverables. All projects are grounded in a shared clinical research domain: **clinician trust calibration in AI-assisted Decision Support Systems (CDSS)**.
@@ -29,6 +29,7 @@ A zero-dependency interactive presentation slide deck built directly for stakeho
 * **Languages:** JavaScript (ES6+), Python, HTML5, Vanilla CSS
 * **AI & NLP:** Prompt Engineering, In-Context Learning / Full-Corpus Prompt Injection, Semantic Embeddings, System Prompt Constraints, Hallucination Guardrails
 * **Backend:** Node.js, Express, Server-Sent Events (SSE), API Proxying & Integration (Dovetail, Anthropic, OpenAI)
+* **Agentic Tooling & AI-Assisted Prototyping:** Cursor, Claude Code, Google Antigravity (leveraged for high-velocity prototyping, automated testing, and development orchestration)
 * **Design Philosophy:** Human-in-the-Loop AI design, zero-dependency performance, minimalist/responsive frontend interfaces
 ---
 *Feel free to reach out if you're interested in AI-UX research patterns, AI-assisted qualitative research systems, or human-AI collaboration!* 🚀
