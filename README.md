@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ---
 
-I build tools at the intersection of **User Experience Research (UXR)** and **Artificial Intelligence**, leveraging advanced AI-assisted development (vibe coding) to rapidly prototype and deploy robust, functional applications. My work focuses on creating human-in-the-loop AI systems that accelerate qualitative synthesis, ensure analytical rigor, and bridge the gap between complex research data and stakeholder decision-making.
+I build tools at the intersection of **User Experience Research (UXR)** and **Artificial Intelligence**, leveraging advanced AI-assisted development (vibe coding) to rapidly prototype and deploy robust, functional proof of concepts. My work focuses on creating human-in-the-loop AI prototypes that accelerate qualitative synthesis, ensure analytical rigor, and bridge the gap between complex research data and stakeholder decision-making.
 
 ## 🛠️ Unified Portfolio: AI-Augmented UX Research Suite
 These three projects form an end-to-end pipeline that transforms raw qualitative user research into validated, interactive, and secure stakeholder deliverables. All projects are grounded in a shared clinical research domain: **clinician trust calibration in AI-assisted Decision Support Systems (CDSS)**.
