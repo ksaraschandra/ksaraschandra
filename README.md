@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi 👋 
 ---
 
 I explore the space at the intersection of **User Experience Research (UXR)** and **Artificial Intelligence**, leveraging advanced AI-assisted development (vibe coding with Claude Code, Cursor, Antigravity) to rapidly prototype and deploy robust, functional proof of concepts. My work focuses on creating human-in-the-loop AI prototypes that accelerate qualitative synthesis, ensure analytical rigor, and bridge the gap between complex research data and stakeholder decision-making.
